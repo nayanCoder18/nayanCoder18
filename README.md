@@ -71,5 +71,5 @@ I'm exploring Python and its libraries at my own pace — always learning, alway
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-mandal-8ab176335/) [Email](mailto:mandalnayan19154@gmail.com) 💌
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-mandal-8ab176335/) [Email](mailto:nayanmandal6018@gmail.com) 💌
 
